@@ -1,0 +1,3 @@
+".\Hex-File\flash-led.obj" 
+TO ".\Hex-File\Led_On_Off" 
+PRINT(".\Led_On_Off.m51") RAMSIZE(256) 
